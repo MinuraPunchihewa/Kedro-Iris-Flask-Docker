@@ -43,4 +43,5 @@ kedro test
 
 ## Related Projects
 
-- [Kedro Iris Enhancements](https://github.com/MinuraPunchihewa/kedro-iris.git) - An enhanced implementation of the Kedro Iris Starter project.
+- [Kedro Iris Starter](https://github.com/quantumblacklabs/kedro-starter-pandas-iris.git): The original Kedro Iris Starter Project.
+- [Kedro Iris Enhancements](https://github.com/MinuraPunchihewa/kedro-iris.git): An enhanced implementation of the Kedro Iris Starter project.
