@@ -19,7 +19,7 @@ cd kedro-iris-flask-docker
 Build the Docker image,
 
 ```
-docker build -t <image-name> .
+kedro docker build
 ```
 
 Run the Docker image,
