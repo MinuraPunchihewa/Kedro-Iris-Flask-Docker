@@ -40,3 +40,7 @@ Have a look at the file `src/tests/test_run.py` for instructions on how to write
 ```
 kedro test
 ```
+
+## Related Projects
+
+- [Kedro Iris Enhancements](https://github.com/MinuraPunchihewa/kedro-iris.git) - An enhanced implementation of the Kedro Iris Starter project.
