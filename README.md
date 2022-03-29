@@ -1,6 +1,6 @@
 # Kedro Iris API
 
-This is an enhanced implementation of the Kedro Iris Starter project, running as Flask API on Docker.
+This is an enhanced implementation of the Kedro Iris Starter project, running as a Flask API on Docker.
 
 ## Run Locally
 
@@ -28,7 +28,10 @@ Run the Docker image,
 docker run -p 5000:5000 <image-name>
 ```
 
-Run the default pipeline by submitting a call to the `/run` endpoint along with train-test split raio,
+Run the default pipeline by submitting a call to the `/run` endpoint along with train-test split ratio,
+```
+localhost:5000/run/<train-test-split>
+```
 
 ## Testing
 
