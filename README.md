@@ -28,7 +28,7 @@ Run the Docker image,
 docker run -p 5000:5000 <image-name>
 ```
 
-Run the default pipeline by submitting a call to the `/run` endpoint along with train-test split ratio,
+Run the default pipeline by submitting a GET request to the `/run` endpoint along with train-test split ratio,
 ```
 localhost:5000/run/<train-test-split>
 ```
